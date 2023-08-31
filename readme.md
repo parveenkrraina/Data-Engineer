@@ -1,10 +1,4 @@
-# !!! Retired !!!
-
-## This repo has been replaced by [dp-203-azure-data-engineer](https://github.com/MicrosoftLearning/dp-203-azure-data-engineer) and will be archived in the coming weeks. Please use the exercises in the new repo for all ILT deliveries.
-
----
-
-# DP-203T00: Data Engineering on Azure
+# Data Engineering on Azure
 
 Welcome to the course DP-203: Data Engineering on Azure. To support this course, we will need to make updates to the course content to keep it current with the Azure services used in the course.  We are publishing the lab instructions and lab files on GitHub to allow for open contributions between the course authors and MCTs to keep the content current with changes in the Azure platform.
 
