@@ -52,7 +52,7 @@ Perform the following tasks to prepare your environment for the labs.
 4. In Windows PowerShell, use the following command to change directories to the folder containing the automation scripts.
 
     ```
-    cd \data-engineering-ilt-deployment\Allfiles\00\artifacts\environment-setup\automation\
+    cd data-engineering-ilt-deployment\Allfiles\00\artifacts\environment-setup\automation\
     ```
     
 5. In Windows PowerShell, enter the following command to run the setup script:
