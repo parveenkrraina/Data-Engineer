@@ -53,7 +53,7 @@ Before starting this lab, ensure you have successfully completed the setup steps
 2. Change directories to the root of this repo within your local file system.
 
     ```
-    cd C:\dp-203\data-engineering-ilt-deployment\Allfiles\00\artifacts\environment-setup\automation\
+    cd dp-203\data-engineering-ilt-deployment\Allfiles\00\artifacts\environment-setup\automation\
     ```
 
 3. Enter the following command to run a PowerShell script that creates objects in the SQL pool:
