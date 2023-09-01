@@ -45,7 +45,7 @@ Before starting this lab, ensure you have successfully completed the setup steps
 1. In the hosted VM environment provided for this course, open Powershell in administrator mode, and execute the following to set the execution policy to Unrestricted so you can run the local PowerShell script file:
 
     ```
-    Set-ExecutionPolicy Unrestricted
+   
     ```
 
     > **Note**: If you receive a prompt that you are installing the module from an untrusted repository, select **Yes to All** to proceed with the setup.
